@@ -8,13 +8,12 @@
 - Interested in VLSI Design and Semiconductor Technology
 - Learning Python, SQL, Git, and GitHub
 - Exploring AI tools like Claude and Antigravity
-- Building software and web development projects
+  
 
 ## Technical Skills
-- Python
+- VHDL,Verilog
 - SQL
 - Git & GitHub
-- HTML & CSS
 - Digital Electronics
 - VLSI Fundamentals
 
