@@ -2,7 +2,7 @@
 
 🎓 Electronics and Communication Engineering Graduate
 
-💻 Aspiring Software and VLSI Engineer
+💻 Aspiring VLSI Engineer
 
 ## About Me
 - Interested in VLSI Design and Semiconductor Technology
