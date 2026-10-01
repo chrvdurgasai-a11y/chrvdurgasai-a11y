@@ -32,9 +32,9 @@ Collection of VLSI concepts, interview questions, and study materials.
 
 ## Currently Learning
 - VLSI Design Flow
-- Web Development
-- Artificial Intelligence Tools
-- Data Structures and Algorithms
+- Verilog
+- Design Compiler and Linting
+- System Veilog
 
 ## Connect With Me
 - GitHub: https://github.com/chrvdurgasai-a11y
